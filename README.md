@@ -1,0 +1,2 @@
+NextJS is a React-based framework. It has the power to Develop beautiful Web applications for different platforms like Windows, Linux, and mac. The linking of dynamic paths helps in rendering your NextJS components conditionally.
+Approach: To add the user authentication in our project first we will install the nextauth module. After that, we will create a dynamic file with [...nextauth].js name. Then we will add different providers inside this file for authenticating. After that, we will add login and signout option on our homepage.
